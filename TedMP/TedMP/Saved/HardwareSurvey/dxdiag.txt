@@ -1,0 +1,196 @@
+------------------
+System Information
+------------------
+  DxDiag Previously: Crashed in system information (stage 1) & DirectSound (stage 3) & DirectShow (stage 1). Re-running DxDiag with "dontskip" command line parameter or choosing not to bypass information gathering when prompted might result in DxDiag successfully obtaining this information
+
+------------
+DxDiag Notes
+------------
+      Display Tab 1: No problems found.
+        Sound Tab 1: No problems found.
+          Input Tab: No problems found.
+
+---------------
+Display Devices
+---------------
+          Card name: AMD Radeon R7 200 Series
+       Manufacturer: Advanced Micro Devices, Inc.
+          Chip type: AMD Radeon Graphics Processor (0x6613)
+           DAC type: Internal DAC(400MHz)
+         Device Key: Enum\PCI\VEN_1002&DEV_6613&SUBSYS_72401682&REV_00
+     Display Memory: 2768 MB
+   Dedicated Memory: 1011 MB
+      Shared Memory: 1757 MB
+       Current Mode: 1366 x 768 (32 bit) (60Hz)
+       Monitor Name: Monitor Genérico PnP
+      Monitor Model: HP L185b
+         Monitor Id: HWP2898
+        Native Mode: 1366 x 768(p) (59.790Hz)
+        Output Type: HD15
+        Driver Name: aticfx64.dll,aticfx64.dll,aticfx64.dll,aticfx32,aticfx32,aticfx32,atiumd64.dll,atidxx64.dll,atidxx64.dll,atiumdag,atidxx32,atidxx32,atiumdva,atiumd6a.cap,atitmm64.dll
+Driver File Version: 8.17.0010.1280 (English)
+     Driver Version: 14.100.0.0
+        DDI Version: 11
+       Driver Model: WDDM 1.1
+  Driver Attributes: Final Retail
+   Driver Date/Size: 4/17/2014 23:42:54, 1343272 bytes
+        WHQL Logo'd: Yes
+    WHQL Date Stamp: 
+  Device Identifier: {D7B71EE2-2553-11CF-3270-4A52BEC2C535}
+          Vendor ID: 0x1002
+          Device ID: 0x6613
+          SubSys ID: 0x72401682
+        Revision ID: 0x0000
+ Driver Strong Name: oem2.inf:ATI.Mfg.NTamd64.6.1:ati2mtag_R501:14.100.0.0:pci\ven_1002&dev_6613
+     Rank Of Driver: 00E62001
+        Video Accel: ModeMPEG2_A ModeMPEG2_C ModeVC1_C ModeWMV9_C 
+   Deinterlace Caps: {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+       D3D9 Overlay: Not Supported
+            DXVA-HD: Not Supported
+       DDraw Status: Enabled
+         D3D Status: Enabled
+         AGP Status: Enabled
+
+-------------
+Sound Devices
+-------------
+            Description: Alto-falantes (Dispositivo de High Definition Audio)
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0662&SUBSYS_103C3048&REV_1001
+        Manufacturer ID: 1
+             Product ID: 65535
+                   Type: WDM
+            Driver Name: HdAudio.sys
+         Driver Version: 6.01.7601.17514 (Portuguese)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: n/a
+          Date and Size: 11/21/2010 00:23:47, 350208 bytes
+            Other Files: 
+        Driver Provider: Microsoft
+         HW Accel Level: Basic
+              Cap Flags: 0x0
+    Min/Max Sample Rate: 0, 0
+Static/Strm HW Mix Bufs: 0, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+---------------------
+Sound Capture Devices
+---------------------
+-------------------
+DirectInput Devices
+-------------------
+      Device Name: Mouse
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+      Device Name: Teclado
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+      Device Name: ioVirtual Consumer Control
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x0458, 0x0000
+        FF Driver: n/a
+
+      Device Name: ioVirtual System Control
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x0458, 0x0000
+        FF Driver: n/a
+
+      Device Name: ioVirtual Tablet
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x0458, 0x0000
+        FF Driver: n/a
+
+Poll w/ Interrupt: No
+
+-----------
+USB Devices
+-----------
++ USB Root Hub
+| Vendor/Product ID: 0x8086, 0x3A65
+| Matching Device ID: usb\root_hub
+| Service: usbhub
+
+----------------
+Gameport Devices
+----------------
+
+------------
+PS/2 Devices
+------------
++ Teclado Padrão PS/2
+| Matching Device ID: *pnp0303
+| Service: i8042prt
+| 
++ Dispositivo de teclado HID
+| Matching Device ID: hid_device_system_keyboard
+| Service: kbdhid
+| 
++ Terminal Server Keyboard Driver
+| Matching Device ID: root\rdp_kbd
+| Upper Filters: kbdclass
+| Service: TermDD
+| 
++ Mouse compatível com PS/2
+| Matching Device ID: *pnp0f13
+| Service: i8042prt
+| 
++ Mouse compatível com HID
+| Matching Device ID: hid_device_system_mouse
+| Service: mouhid
+| 
++ Terminal Server Mouse Driver
+| Matching Device ID: root\rdp_mou
+| Upper Filters: mouclass
+| Service: TermDD
+
+---------------
+EVR Power Information
+---------------
+Current Setting: {5C67A112-A4C9-483F-B4A7-1D473BECAFDC} (Quality) 
+  Quality Flags: 2576
+    Enabled:
+    Force throttling
+    Allow half deinterlace
+    Allow scaling
+    Decode Power Usage: 100
+  Balanced Flags: 1424
+    Enabled:
+    Force throttling
+    Allow batching
+    Force half deinterlace
+    Force scaling
+    Decode Power Usage: 50
+  PowerFlags: 1424
+    Enabled:
+    Force throttling
+    Allow batching
+    Force half deinterlace
+    Force scaling
+    Decode Power Usage: 0
